@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3063023",
+      "name": "不显示密码",
+      "font_class": "buxianshimima",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "4561149",
+      "name": "显示密码",
+      "font_class": "ziyuan",
+      "unicode": "e53d",
+      "unicode_decimal": 58685
+    }
+  ]
+}
